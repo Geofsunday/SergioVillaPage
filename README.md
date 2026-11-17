@@ -17,7 +17,7 @@ Relative asset links support both `username.github.io` and `username.github.io/r
 
 ## Content
 
-Professional summary, job descriptions, dates, education, skills, and contact information are transcribed from the supplied resume. Macy’s has no employment dates in the source, so the site uses “Seasonal” without inventing dates. Introductory and closing copy is editorial; no additional personal history or achievements were invented.
+Professional summary, job descriptions, dates, education, skills, and contact information are transcribed from the supplied resume. Employment dates, client volume, customer service experience, software and AI tools, and language skills follow the updated resume supplied November 16, 2026. Introductory and closing copy is editorial; no additional personal history or achievements were invented.
 
 The original, unchanged resume is in `assets/Sergio_Villa_Resume.docx`. Update the page and replace that file together when your resume changes. The supplied replacement images are used in three places: `asadal_stock_209.jpg` as the city-and-meadow hero background (`assets/aero-city.jpg`), `perfect_hue_189.jpg` inside the glass hero orb (`assets/aero-architecture.jpg`), and `asadal_stock_58.jpg` as the aquatic contact background (`assets/aero-water.jpg`). The original inspiration image has been removed. The favicon is original SVG artwork included in this project.
 
